@@ -25,9 +25,8 @@ I am currently transitioning into remote accounting and data-driven roles using 
 ---
 ## 📂 Projects
 
-### 🔹 Portfolio Website
-Live: https://bhushan-vp-portfolio.netlify.app/  
-Code: https://github.com/bhushanp443/my-portfolio  
+## 🌐 Portfolio
+👉 Live Website: https://bhushan-vp-portfolio.netlify.app/ 
 
 ---
 
@@ -39,4 +38,4 @@ Code: https://github.com/bhushanp443/my-portfolio
 ---
 
 ## 🤝 Let's Connect
-- Open to remote opportunities## Hi there 👋
+- Open to remote opportunities

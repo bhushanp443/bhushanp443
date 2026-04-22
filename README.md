@@ -1,4 +1,5 @@
-# Hi, I'm Nagabhushana 👋
+# Hi, I'm Nagabhushana 👋  
+### AI Generalist | Operations Leader | Aspiring Remote Bookkeeper
 
 ## 🚀 About Me
 I am an AI Generalist and Operations Leader with 15+ years of experience in facility management, IT operations, Procurement and supply chain management and process optimization.
